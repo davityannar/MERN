@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Narek:narek123@pordztest-2dx70.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "52eea926f6190ce6edea",
+  "githubSecret": "309f6444defe7a6f5d2819634259113e44ff2143"
+}
